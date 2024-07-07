@@ -1,1 +1,0 @@
-import"./hoisted.Dh5fQiKa.js";function e(t){t.target.classList.toggle("fas"),t.target.classList.toggle("far"),t.target.classList.toggle("text-danger")}document.getElementById("heart1").addEventListener("click",e);
