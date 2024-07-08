@@ -6,7 +6,7 @@
       "thumb_alt": "watch-image",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1611930021592-a8cfd5319ceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+          "src": "https://images.unsplash.com/photo-1611930021592-a8cfd5319ceb?ixlib",
           "alt": "first_image"
         },
         {
@@ -23,11 +23,7 @@
         }
       ],
       "color": "8 colors",
-      "colors": [
-        "red", 
-        "blue", 
-        "green"
-      ],
+      "colors": ["red", "blue", "green"],
       "title": "Basic Starter Pack",
       "price": 399,
       "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
@@ -191,22 +187,22 @@
   ],
   "categories": [
     {
-      "thumb_src": "/images/category1.jpg",
+      "thumb_src": "/images/cat2.avif",
       "title": "Silk Dresses",
       "collection": "Pre-fall"
     },
     {
-      "thumb_src": "/images/category2.jpg",
+      "thumb_src": "/images/cat4.avif",
       "title": "Suits",
       "collection": "Designers"
     },
     {
-      "thumb_src": "/images/category3.jpg",
+      "thumb_src": "/images/cat3.avif",
       "title": "Festival",
       "collection": "Summer"
     },
     {
-      "thumb_src": "/images/category4.jpg",
+      "thumb_src": "/images/cat5.avif",
       "title": "Showroom",
       "collection": "Sale"
     },
@@ -353,14 +349,6 @@
       "phoneNumber": "(307) 682-8835"
     }
   ],
-  "shoppingCart": [
-    "01", 
-    "02", 
-    "03"
-  ],
-  "shoppingCart2": [ 
-    "02", 
-    "03",
-    "04"
-  ]
+  "shoppingCart": ["01", "02", "03"],
+  "shoppingCart2": ["02", "03", "04"]
 }
