@@ -187,22 +187,22 @@
   ],
   "categories": [
     {
-      "thumb_src": "/images/cat2.avif",
+      "thumb_src": "../images/cat2.avif",
       "title": "Silk Dresses",
       "collection": "Pre-fall"
     },
     {
-      "thumb_src": "/images/cat4.avif",
+      "thumb_src": "../images/cat4.avif",
       "title": "Suits",
       "collection": "Designers"
     },
     {
-      "thumb_src": "/images/cat3.avif",
+      "thumb_src": "../images/cat3.avif",
       "title": "Festival",
       "collection": "Summer"
     },
     {
-      "thumb_src": "/images/cat5.avif",
+      "thumb_src": "../images/cat5.avif",
       "title": "Showroom",
       "collection": "Sale"
     },
